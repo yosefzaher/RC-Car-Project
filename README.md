@@ -34,7 +34,7 @@ _________________________________________________
 
 Arduino Code :-
 _______________________
-  In the folder which named :
+  In the folder which named : Hanan_Elderiny_MyLove.ino
 
 Bluetooth Connection :-
 _______________________________
@@ -54,7 +54,5 @@ _____________________________
   If the RC car is not responding, check the wiring connections.
   Ensure that the Bluetooth module is properly paired with your smartphone.
   Verify that the power supply is providing sufficient power to the motors.
-
-Contributors :-
-________________________
-ENG. Yosef Zaher
+__________________________________________________________________________
+Contributors :  ENG. Yosef Zaher
